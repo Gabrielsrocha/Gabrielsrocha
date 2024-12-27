@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gabrielsrocha
+- 👋 Hi, I’m @Gabrielsrocha and BI Especialist
 - 👀 I’m interested in data analysis focused on problem solving
-- 🌱 I’m currently learning Python, SQL and Data Visualization 
-- 💞️ I’m looking to collaborate on Data Analysis focused in Marketing&Sales and Finance
+- 🌱 My profile aims to share my projects using Python, Data Science, SQL and Data Visualization
+- 💞️ I’m looking to collaborate on Data Analysis focused in Marketing, Sales, Supply HR and Finance
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/gabriel-sarmento-rocha/
 
 <!---
